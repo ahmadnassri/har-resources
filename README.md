@@ -127,33 +127,33 @@ The content of this document are copied from various sources, Starting with the 
 
 ### Libraries
 
-- Java
+#### Java
   - [Java HarLib](https://sites.google.com/site/frogthinkerorg/projects/harlib) *[Apache v2 License]*  
     Read/write HAR files from Java, Database mapping of HAR objects into any databases through JDBC
 
-- Perl
+#### Perl
   - [Archive::Har](http://search.cpan.org/~ddick/Archive-Har-0.05/) *[Perl 5 License (Artistic 1 & GPL 1)]*  
     Provides an interface to HTTP Archive (HAR) files
 
-- Ruby
+#### Ruby
   - [HAR::Archive](https://github.com/jarib/har) *[BSD 2-Clause License]*  
 
   - [http_archive](https://github.com/alihuber/http_archive) *[MIT License]*  
     Library to interact with HTTP Archive (.har) files  
 
-- Objective-C
+#### Objective-C
   - [AFHARchiver](https://github.com/mutualmobile/AFHARchiver) *[MIT License]*  
     An AFNetworking extension to automatically generate HTTP Archive files of all of your network requests!
 
-- .NET
+#### .NET
   - [http-archive-net](https://github.com/automatonic/http-archive-net) *[MIT License]*  
     .Net types for HTTP Archive (HAR) specification
 
-- PHP
+#### PHP
   - [https://github.com/jmfontaine/php-http-archive](PHP library for manipulating HTTP Archives (Har)) *[BSD 3-Clause License]*  
     Library for manipulating HTTP archives
 
-- JavaScript
+#### JavaScript
   - [HTTPArchive.js](https://github.com/codeinchaos/httparchive.js) *[MIT License]*  
     JavaScript library to manipulate HTTP Archive 1.2 JSON objects. You can install with Bower or NPM.
 
