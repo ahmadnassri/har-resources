@@ -39,8 +39,14 @@ The content of this document are copied from various sources, Starting with the 
 - [HttpWatch](http://www.httpwatch.com/)  
   HTTP viewer and debugger that integrates with IE and Firefox to provide seamless HTTP and HTTPS monitoring without leaving the browser window. Collected data can be saved into a HAR based file.
 
-  [HTTP Snippet](https://www.npmjs.com/package/httpsnippet)  
-  CLI tool & Node.JS module to auto-generate HTTP code snippets in most languages.
+- [HTTP Snippet](https://www.npmjs.com/package/httpsnippet) *[MIT License]*  
+  CLI tool to auto-generate HTTP code snippets in most languages.
+
+- [HAR Validator](https://www.npmjs.com/package/har-validator/) *[MIT License]*  
+  CLI tool to validate HAR files.
+
+- [HAR Validator Online](http://ahmadnassri.github.io/har-validator/) *[MIT License]*  
+  Online tool to validate HAR files.
 
 - [Fiddler](http://www.telerik.com/fiddler)  
   Web Debugging Proxy which logs all HTTP(S) traffic between your computer and the Internet.
@@ -89,8 +95,8 @@ The content of this document are copied from various sources, Starting with the 
 
 ### Services
 
-- [APIembed](http://apiembed.com/)  
-  Embeddable HTTP Code snippets, auto-generated in many programming languages for your website, blog or API documentation.
+- [APIembed](http://apiembed.com/) *[API Embed]*  
+  Embeddable HTTP Code snippets, auto-generated in most languages for your website, blog or API documentation.
 
 - [HTTP Archive](http://httparchive.org/)  
   The HTTP Archive provides information about website performance such as # of HTTP requests, use of gzip, and amount of JavaScript. This information is recorded over time revealing trends in how the Internet is performing.
@@ -163,6 +169,12 @@ The content of this document are copied from various sources, Starting with the 
 
 - [HTTPArchive.js](https://github.com/codeinchaos/httparchive.js) *[MIT License]*  
   JavaScript library to manipulate HTTP Archive 1.2 JSON objects. You can install with Bower or NPM.
+
+- [HTTP Snippet](https://www.npmjs.com/package/httpsnippet) *[MIT License]*  
+  Node.JS module to auto-generate HTTP code snippets in most languages.
+
+- [HAR Validator](https://www.npmjs.com/package/har-validator/) *[MIT License]*  
+  Node.JS module to validate HAR Objects.
 
 ### Groups / Mailing Lists / Chat
 
