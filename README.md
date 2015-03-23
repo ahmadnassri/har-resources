@@ -39,6 +39,9 @@ The content of this document are copied from various sources, Starting with the 
 - [HttpWatch](http://www.httpwatch.com/)  
   HTTP viewer and debugger that integrates with IE and Firefox to provide seamless HTTP and HTTPS monitoring without leaving the browser window. Collected data can be saved into a HAR based file.
 
+  [HTTP Snippet](https://www.npmjs.com/package/httpsnippet)  
+  CLI tool & Node.JS module to auto-generate HTTP code snippets in most languages.
+
 - [Fiddler](http://www.telerik.com/fiddler)  
   Web Debugging Proxy which logs all HTTP(S) traffic between your computer and the Internet.
 
@@ -85,6 +88,9 @@ The content of this document are copied from various sources, Starting with the 
   A research project developed by the Laboratory of Advanced System Software at the University of Massachusetts Amherst. The source code and software distributions can be found on the [SourceForge Project Page](http://sourceforge.net/projects/benchlab/)
 
 ### Services
+
+- [APIembed](http://apiembed.com/)  
+  Embeddable HTTP Code snippets, auto-generated in many programming languages for your website, blog or API documentation.
 
 - [HTTP Archive](http://httparchive.org/)  
   The HTTP Archive provides information about website performance such as # of HTTP requests, use of gzip, and amount of JavaScript. This information is recorded over time revealing trends in how the Internet is performing.
