@@ -51,9 +51,8 @@ The content of this document are copied from various sources, Starting with the 
 - [dynaTrace](https://community.compuwareapm.com/community/display/AJAX/Dynatrace+AJAX+Edition+Community+Home)  
   dynaTrace Ajax Edtion supports exporting captured Network Traffic in the HAR format.
 
-- [pcap2har](https://github.com/andrewf/pcap2har)
+- [pcap2har](https://github.com/andrewf/pcap2har) *[BSD License]*  
   A convertor from .pcap network capture files to HTTP Archive files.
-  > BSD License
 
 - [Subgraph Vega](https://github.com/consiliens/harv/)  
   HAR exporter for Subgraph Vega.
@@ -123,44 +122,40 @@ The content of this document are copied from various sources, Starting with the 
 - [LoadStorm](http://loadstorm.com/)  
   The easy and cost effective load testing tool for web and mobile applications.
 
+- [HTTP Archive Crawler](https://github.com/eddiejaoude/http-archive-crawler)
+  A web application to allow you to crawl your URL & send it to HTTP Archive, which in turns is powered by Web Page Test
+
 ### Libraries
 
 - Java
-  - [Java HarLib](https://sites.google.com/site/frogthinkerorg/projects/harlib)  
-    Read/write HAR files from Java, Database mapping of HAR objects into any databases through JDBC  
-    > Apache v2 License
+  - [Java HarLib](https://sites.google.com/site/frogthinkerorg/projects/harlib) *[Apache v2 License]*  
+    Read/write HAR files from Java, Database mapping of HAR objects into any databases through JDBC
 
 - Perl
-  - [Archive::Har](http://search.cpan.org/~ddick/Archive-Har-0.05/)  
-    Provides an interface to HTTP Archive (HAR) files  
-    > Perl 5 License (Artistic 1 & GPL 1)
+  - [Archive::Har](http://search.cpan.org/~ddick/Archive-Har-0.05/) *[Perl 5 License (Artistic 1 & GPL 1)]*  
+    Provides an interface to HTTP Archive (HAR) files
 
 - Ruby
-  - [HAR::Archive](https://github.com/jarib/har)  
-    > BSD 2-Clause License
+  - [HAR::Archive](https://github.com/jarib/har) *[BSD 2-Clause License]*  
 
-  - [http_archive](https://github.com/alihuber/http_archive)  
+  - [http_archive](https://github.com/alihuber/http_archive) *[MIT License]*  
     Library to interact with HTTP Archive (.har) files  
-    > MIT License
 
 - Objective-C
-  - [AFHARchiver](https://github.com/mutualmobile/AFHARchiver)  
-    An AFNetworking extension to automatically generate HTTP Archive files of all of your network requests!  
-    > MIT License
+  - [AFHARchiver](https://github.com/mutualmobile/AFHARchiver) *[MIT License]*  
+    An AFNetworking extension to automatically generate HTTP Archive files of all of your network requests!
 
 - .NET
-  - [http-archive-net](https://github.com/automatonic/http-archive-net)  
-    .Net types for HTTP Archive (HAR) specification  
-    > MIT License
+  - [http-archive-net](https://github.com/automatonic/http-archive-net) *[MIT License]*  
+    .Net types for HTTP Archive (HAR) specification
 
 - PHP
-  - [https://github.com/jmfontaine/php-http-archive](PHP library for manipulating HTTP Archives (Har))  
-    Library for manipulating HTTP archives  
-    > BSD 3-Clause License
+  - [https://github.com/jmfontaine/php-http-archive](PHP library for manipulating HTTP Archives (Har)) *[BSD 3-Clause License]*  
+    Library for manipulating HTTP archives
 
 - JavaScript
-  - [HTTPArchive.js](https://github.com/codeinchaos/httparchive.js)  
-    JavaScript library to manipulate HTTP Archive 1.2 JSON objects. You can install with Bower or NPM. Licensed under the MIT license.
+  - [HTTPArchive.js](https://github.com/codeinchaos/httparchive.js) *[MIT License]*  
+    JavaScript library to manipulate HTTP Archive 1.2 JSON objects. You can install with Bower or NPM.
 
 ### Groups / Mailing Lists / Chat
 
@@ -180,10 +175,10 @@ The content of this document are copied from various sources, Starting with the 
 ## Articles / Blogs
 
 - [HTTP Archive Specification: Firebug and HttpWatch](http://www.stevesouders.com/blog/2009/10/19/http-archive-specification-firebug-and-httpwatch/)  
-  > By Steve Souders October 19, 2009
+  > By **Steve Souders** October 19, 2009
 
 - [Web Performance Power Tool: HTTP Archive (HAR)](https://www.igvita.com/2012/08/28/web-performance-power-tool-http-archive-har/)  
-  > By Ilya Grigorik on August 28, 2012
+  > By **Ilya Grigorik** on August 28, 2012
 
 - [What is a HAR File and what do I use it for?](https://www.neustar.biz/blog/what-is-a-har-file)  
-  > by Alan Dyke on August 29, 2012
+  > by **Alan Dyke** on August 29, 2012
