@@ -127,35 +127,35 @@ The content of this document are copied from various sources, Starting with the 
 
 - Java
   - [Java HarLib](https://sites.google.com/site/frogthinkerorg/projects/harlib)  
-    Read/write HAR files from Java, Database mapping of HAR objects into any databases through JDBC
+    Read/write HAR files from Java, Database mapping of HAR objects into any databases through JDBC  
     > Apache v2 License
 
 - Perl
   - [Archive::Har](http://search.cpan.org/~ddick/Archive-Har-0.05/)  
-    Provides an interface to HTTP Archive (HAR) files
-    > Perl 5 License (Artistic 1 & GPL 1).
+    Provides an interface to HTTP Archive (HAR) files  
+    > Perl 5 License (Artistic 1 & GPL 1)
 
 - Ruby
   - [HAR::Archive](https://github.com/jarib/har)  
     > BSD 2-Clause License
 
   - [http_archive](https://github.com/alihuber/http_archive)  
-    Library to interact with HTTP Archive (.har) files
+    Library to interact with HTTP Archive (.har) files  
     > MIT License
 
 - Objective-C
   - [AFHARchiver](https://github.com/mutualmobile/AFHARchiver)  
-    An AFNetworking extension to automatically generate HTTP Archive files of all of your network requests!
+    An AFNetworking extension to automatically generate HTTP Archive files of all of your network requests!  
     > MIT License
 
 - .NET
   - [http-archive-net](https://github.com/automatonic/http-archive-net)  
-    .Net types for HTTP Archive (HAR) specification
+    .Net types for HTTP Archive (HAR) specification  
     > MIT License
 
 - PHP
   - [https://github.com/jmfontaine/php-http-archive](PHP library for manipulating HTTP Archives (Har))  
-    Library for manipulating HTTP archives.
+    Library for manipulating HTTP archives  
     > BSD 3-Clause License
 
 - JavaScript
