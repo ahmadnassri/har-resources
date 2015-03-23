@@ -127,10 +127,12 @@ The content of this document are copied from various sources, Starting with the 
 
 - Java
   - [Java HarLib](https://sites.google.com/site/frogthinkerorg/projects/harlib)  
+    Read/write HAR files from Java, Database mapping of HAR objects into any databases through JDBC
     > Apache v2 License
 
 - Perl
   - [Archive::Har](http://search.cpan.org/~ddick/Archive-Har-0.05/)  
+    Provides an interface to HTTP Archive (HAR) files
     > Perl 5 License (Artistic 1 & GPL 1).
 
 - Ruby
@@ -142,7 +144,7 @@ The content of this document are copied from various sources, Starting with the 
     > MIT License
 
 - Objective-C
-  - [AFHARchiver]https://github.com/mutualmobile/AFHARchiver
+  - [AFHARchiver](https://github.com/mutualmobile/AFHARchiver)  
     An AFNetworking extension to automatically generate HTTP Archive files of all of your network requests!
     > MIT License
 
