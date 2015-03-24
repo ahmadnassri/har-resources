@@ -157,6 +157,10 @@ The content of this document are copied from various sources, Starting with the 
 - [AFHARchiver](https://github.com/mutualmobile/AFHARchiver) *[MIT License]*  
   An AFNetworking extension to automatically generate HTTP Archive files of all of your network requests!
 
+#### Python
+- [hardrr](https://github.com/kleinron/hardrr) *[MIT License]*  
+  Python object model for HTTP Archive (HAR) specification. Partial coverage, but a nice starting point.
+
 #### .NET
 - [http-archive-net](https://github.com/automatonic/http-archive-net) *[MIT License]*  
   .Net types for HTTP Archive (HAR) specification
