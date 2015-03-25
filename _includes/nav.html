@@ -8,16 +8,16 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">HAR Resources</a>
+      <a class="navbar-brand" href="{{ site.baseurl }}">HAR Resources</a>
     </div>
 
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav">
         {% for collection in collections %}
-          <li><a href="/#{{ collection[0] }}">{{ collection[0] | capitalize }}</a></li>
+          <li><a href="{{ site.baseurl }}/#{{ collection[0] }}">{{ collection[0] | capitalize }}</a></li>
         {% endfor %}
 
-        <li><a href="/about">About</a></li>
+        <li><a href="{{ site.baseurl }}/about">About</a></li>
       </ul>
     </div>
   </div>
