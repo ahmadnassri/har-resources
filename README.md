@@ -27,9 +27,6 @@ The content of this document are copied from various sources, Starting with the 
 
 ## Applications
 
-- [Runscope](https://www.runscope.com)
-  Runscope helps solve API problems fast with API monitoring, automated testing and debugging tools. Runscope supports HAR file importing ([view docs](https://www.runscope.com/docs/collections#importing)). 
-
 - [HAR Viewer](http://www.softwareishard.com/har/viewer/)  
   HAR Viewer is a web application that allows visualizing HTTP Archive logs (HARs). [Open Source](https://github.com/janodvarko/harviewer).
 
@@ -97,6 +94,9 @@ The content of this document are copied from various sources, Starting with the 
   A research project developed by the Laboratory of Advanced System Software at the University of Massachusetts Amherst. The source code and software distributions can be found on the [SourceForge Project Page](http://sourceforge.net/projects/benchlab/)
 
 ### Services
+
+- [Runscope](https://www.runscope.com)
+  Runscope helps solve API problems fast with API monitoring, automated testing and debugging tools. Runscope supports HAR file importing ([view docs](https://www.runscope.com/docs/collections#importing)). 
 
 - [APIembed](http://apiembed.com/) *[API Embed]*  
   Embeddable HTTP Code snippets, auto-generated in most languages for your website, blog or API documentation.
