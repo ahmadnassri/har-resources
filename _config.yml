@@ -3,7 +3,7 @@ relative_permalinks: true
 
 # Setup
 title: HAR Resources
-tagline: A hand curated, community driven list of resources, tools, projects and applications that support HTTP Archive format (HAR)
+tagline: A community curated list of resources, tools, projects and applications that support HTTP Archive (HAR)
 baseurl: /har-resources
 
 collections:
