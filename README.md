@@ -95,6 +95,9 @@ The content of this document are copied from various sources, Starting with the 
 
 ### Services
 
+- [Runscope](https://www.runscope.com)
+  Runscope helps solve API problems fast with API monitoring, automated testing and debugging tools. Runscope supports HAR file importing ([view docs](https://www.runscope.com/docs/collections#importing)). 
+
 - [APIembed](http://apiembed.com/) *[API Embed]*  
   Embeddable HTTP Code snippets, auto-generated in most languages for your website, blog or API documentation.
 
