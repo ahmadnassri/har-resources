@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="panel panel-default">
+  <div class="panel-heading">{{ page.title }}</div>
+
+  <ul class="list-group">
+    {% if page.date %}
+      <li class="list-group-item"><i class="fa fa-calendar"><time datetime="{{ page.date | date_to_xmlschema }}" class="page-date"> {{ page.date | date_to_string }}</time></i></li>
+    {% endif %}
+
+    {% if page.author %}
+      <li class="list-group-item"><i class="fa fa-user"> By <strong>{{ page.author }}</strong></i></li>
+    {% endif %}
+
+    {% if page.source %}
+      <a class="list-group-item" href="{{ page.source }}" target="_blank"><i class="fa fa-code-fork"> Source Code</i></a>
+    {% endif %}
+
+    {% if page.license %}
+      <a class="list-group-item" href="{{ page.source }}" target="_blank"><i class="fa fa-file-text-o"> {{ page.license }}</i></a>
+    {% endif %}
+
+    <a class="list-group-item" href="{{ page.link }}" target="_blank"><i class="fa fa-external-link"> Visit</i></a>
+  </ul>
+
+  <div class="panel-body">
+    {% if page.link contains 'youtube' %}
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ page.link | split:'?v=' | last }}" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <hr/>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.screenshot %}
+      <hr/>
+      <img class="thumbnail center-block" src="{{ page.screenshot }}"/>
+    {% endif %}
+  </div>
+</article>

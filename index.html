@@ -1,0 +1,48 @@
+---
+layout: default
+title: Home
+---
+
+<div class="home">
+  {% assign collections = site.collections | sort %}
+
+  {% for collection in collections %}
+    <div class="panel panel-default">
+      {% assign label = collection[1].label %}
+      <a id="{{ label }}"></a>
+
+      <div class="panel-heading">{{ label | capitalize }}</div>
+
+      <ul class="list-group">
+        {% for item in site[label] %}
+          <li class="list-group-item">
+            <div class="btn-group btn-group-sm pull-right">
+
+              {% if item.source %}
+                <a class="btn btn-default" href="{{ item.source }}" target="_blank"><i class="fa fa-code-fork"> Source Code</i></a>
+              {% endif %}
+
+              {% if item.license %}
+                <a class="btn btn-default" href="{{ item.source }}" target="_blank"><i class="fa fa-file-text-o"> {{ item.license }}</i></a>
+              {% endif %}
+
+              <a class="btn btn-default" href="{{ item.link }}" target="_blank"><i class="fa fa-external-link"> Visit</i></a>
+            </div>
+
+            <h4><a href="{{ item.url }}">{{ item.title }}</a></h4>
+
+            {% if item.date %}
+              <p><i class="fa fa-calendar"><time datetime="{{ item.date | date_to_xmlschema }}" class="page-date"> {{ item.date | date_to_string }}</time></i></p>
+            {% endif %}
+
+            {% if item.author %}
+              <p><i class="fa fa-user"> By <strong>{{ item.author }}</strong></i></p>
+            {% endif %}
+
+            {{ item.content }}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>

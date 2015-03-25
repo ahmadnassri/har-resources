@@ -1,0 +1,41 @@
+{% capture title%}{% if page.title == "Home" %}{{ site.title }} | {{ site.tagline }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}{% endcapture %}
+
+<head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="robots" content="index,follow">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+
+  <title>{{ title }}</title>
+
+  <meta itemprop="name"             content="{{ title }}"/>
+  <meta property="og:title"         content="{{ title }}"/>
+  <meta name="twitter:title"        content="{{ title }}"/>
+
+  <link rel="author"                href="https://www.mashape.com/"/>
+  <meta name="author"               content="Ahmad Nassri"/>
+  <meta name="twitter:creator"      content="@AhmadNassri"/>
+
+  <meta name="description"          content="{{ site.tagline }}"/>
+  <meta itemprop="description"      content="{{ site.tagline }}"/>
+  <meta property="og:description"   content="{{ site.tagline }}"/>
+  <meta name="twitter:description"  content="{{ site.tagline }}"/>
+
+  <meta name="twitter:card"         content="summary"/>
+  <meta name="twitter:site"         content="@AhmadNassri"/>
+  <meta name="twitter:domain"       content="ahmadnassri.com"/>
+
+  <link rel="canonical"             href="https://ahmadnassri.github.io/har-resources"/>
+  <meta property="og:url"           content="https://ahmadnassri.github.io/har-resources"/>
+  <meta name="twitter:url"          content="https://ahmadnassri.github.io/har-resources"/>
+
+  <meta property="og:type"          content="website"/>
+  <meta property="og:site_name"     content="{{ title }}"/>
+  <meta property="fb:admins"        content="227304446"/>
+
+  <link rel="author" href="https://www.ahmadnassri.com/about"/>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css"/>
+</head>

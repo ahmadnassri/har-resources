@@ -1,0 +1,33 @@
+permalink: pretty
+relative_permalinks: true
+
+# Setup
+title: HAR Resources
+tagline: A hand curated, community driven list of resources, tools, projects and applications that support HTTP Archive format (HAR)
+
+collections:
+  applications:
+    output: true
+
+  articles:
+    output: true
+
+  browsers:
+    output: true
+
+  groups:
+    output: true
+
+  libraries:
+    output: true
+
+  services:
+    output: true
+
+  videos:
+    output: true
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/ahmadnassri/har-resources
