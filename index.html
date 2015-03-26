@@ -18,7 +18,7 @@ title: Home
           <li class="list-group-item">
             <div class="row">
               <div class="col-md-8">
-                <h4>{% if item.language %}{{ site.languages[item.language] }}: {% endif %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h4>
+                <h4>{% if item.language %}{{ site.languages[item.language] }}: {% endif %}<a href="{% if item.source and item.link %}{{ item.link }}{% elsif item.source %}{{ item.source }}{% else %}{{ item.link }}{% endif %}" target="blank">{{ item.title }}</a></h4>
               </div>
 
               <div class="col-md-4">
@@ -31,15 +31,13 @@ title: Home
                     <a class="btn btn-default" href="{{ item.source }}" target="_blank"><i class="fa fa-file-text-o"> {{ item.license }}</i></a>
                   {% endif %}
 
-                  {% if item.link %}
-                    <a class="btn btn-default" href="{{ item.link }}" target="_blank"><i class="fa fa-external-link"> View</i></a>
-                  {% endif %}
+                  <a class="btn btn-default" href="{{ site.baseurl }}{{ item.url }}"><i class="fa fa-eye"> Details</i></a>
                 </div>
               </div>
             </div>
 
 
-            {% if item.date %}
+            {% if item.date and item.date != '0000-00-00-00:00:00' %}
               <p><i class="fa fa-calendar"><time datetime="{{ item.date | date_to_xmlschema }}" class="page-date"> {{ item.date | date_to_string }}</time></i></p>
             {% endif %}
 

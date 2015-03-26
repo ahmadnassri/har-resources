@@ -31,11 +31,12 @@ collections:
 
 # Custom vars
 languages:
+  csharp: "C#"
   java: Java
   js: JavaScript
+  net: .Net
   objc: Objective-C
-  php: PHP
   perl: Perl
+  php: PHP
   python: Python
   ruby: Ruby
-  net: .Net

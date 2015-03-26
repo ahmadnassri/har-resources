@@ -1,6 +1,7 @@
 ---
 layout: post
-title: http-archive-net
+title: Automatonic.HttpArchive
+link: https://www.nuget.org/packages/Automatonic.HttpArchive/
 source: https://github.com/automatonic/http-archive-net
 language: net
 license: MIT License
