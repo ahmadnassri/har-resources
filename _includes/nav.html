@@ -8,7 +8,6 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ site.baseurl }}">HAR Resources</a>
     </div>
 
     <div class="collapse navbar-collapse" id="navbar">
@@ -17,8 +16,6 @@
           {% assign label = collection[1].label %}
           <li><a href="{{ site.baseurl }}/#{{ collection[0] }}">{{ label | capitalize }} <span class="badge">{{ site[label] | size }}</span></a></li>
         {% endfor %}
-
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
       </ul>
     </div>
   </div>
