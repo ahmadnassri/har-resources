@@ -14,7 +14,8 @@
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav">
         {% for collection in collections %}
-          <li><a href="{{ site.baseurl }}/#{{ collection[0] }}">{{ collection[0] | capitalize }}</a></li>
+          {% assign label = collection[1].label %}
+          <li><a href="{{ site.baseurl }}/#{{ collection[0] }}">{{ label | capitalize }} <span class="badge">{{ site[label] | size }}</span></a></li>
         {% endfor %}
 
         <li><a href="{{ site.baseurl }}/about">About</a></li>

@@ -11,7 +11,7 @@ title: Home
       {% assign label = collection[1].label %}
       <a id="{{ label }}"></a>
 
-      <div class="panel-heading">{{ label | capitalize }}</div>
+      <div class="panel-heading">{{ label | capitalize }} <span class="badge pull-right">{{ site[label] | size }}</span></div>
 
       <ul class="list-group">
         {% for item in site[label] %}
