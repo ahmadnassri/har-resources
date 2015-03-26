@@ -28,7 +28,14 @@ collections:
   videos:
     output: true
 
+
 # Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/ahmadnassri/har-resources
+languages:
+  java: Java
+  js: JavaScript
+  objc: Objective-C
+  php: PHP
+  perl: Perl
+  python: Python
+  ruby: Ruby
+  net: .Net

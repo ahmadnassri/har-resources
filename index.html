@@ -1,15 +1,6 @@
 ---
 layout: default
 title: Home
-languages:
-  java: Java
-  js: JavaScript
-  objc: Objective-C
-  php: PHP
-  perl: Perl
-  python: python
-  ruby: Ruby
-  net: .Net
 ---
 
 <div class="home">
@@ -27,7 +18,7 @@ languages:
           <li class="list-group-item">
             <div class="row">
               <div class="col-md-8">
-                <h4>{% if item.language %}{{ page.languages[item.language] }}: {% endif %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h4>
+                <h4>{% if item.language %}{{ site.languages[item.language] }}: {% endif %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h4>
               </div>
 
               <div class="col-md-4">
