@@ -8,9 +8,7 @@
     }
 
     body {
-      padding-top: 50px;
       padding-bottom: 70px;
-      position: relative;
     }
 
      header {
@@ -18,8 +16,17 @@
       color: white;
       padding-top: 60px;
       padding-bottom: 60px;
-      margin-bottom: 20px;
       font-size: 20px;
+    }
+
+    .navbar {
+      width: 100%;
+      border-radius: 0;
+    }
+
+    .navbar.affix {
+      top: 0;
+      z-index: 100;
     }
 
     header a,
@@ -39,7 +46,18 @@
       margin-top: 0;
     }
 
-    /* Extra Small devices */
+    @media (min-width: 768px) {
+      .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+      }
+
+      .navbar .navbar-collapse {
+        text-align: center;
+      }
+    }
+
     @media (max-width: 991px) {
       .btn-group {
         float: none !important;
@@ -49,8 +67,6 @@
   </style>
 
   <body>
-    {% include nav.html %}
-
     {% include header.html %}
 
     <div class="container content">{{ content }}</div>

@@ -4,3 +4,26 @@
     <p>A <a href="{{ site.baseurl }}/about/#contributing">community curated</a> list of resources, tools, projects and applications that support <a href="http://www.softwareishard.com/blog/har-12-spec/" target="_blank">HTTP Archive (HAR)</a>.</p>
   </div>
 </header>
+
+{% assign collections = site.collections | sort %}
+
+<nav class="navbar navbar-default" data-spy="affix" data-offset-top="235">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="nav navbar-nav">
+        {% for collection in collections %}
+          {% assign label = collection[1].label %}
+          <li><a href="{{ site.baseurl }}/#{{ collection[0] }}">{{ label | capitalize }} <span class="badge">{{ site[label] | size }}</span></a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
