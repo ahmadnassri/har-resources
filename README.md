@@ -1,6 +1,6 @@
 # HAR Resources
 
-A hand curated, [community driven](#contributing) list of resources, tools, projects and applications that support [HTTP Archive format (HAR)](https://groups.google.com/forum/?hl=en#!forum/http-archive-specification).
+A [community curated](#contributing) list of resources, tools, projects and applications that support [HTTP Archive (HAR)](https://groups.google.com/forum/?hl=en#!forum/http-archive-specification).
 
 Visit the website [here](https://ahmadnassri.github.io/har-resources) to browse the catalog.
 
