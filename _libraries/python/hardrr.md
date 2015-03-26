@@ -1,7 +1,6 @@
 ---
 layout: post
 title: hardrr
-link: https://github.com/kleinron/hardrr
 language: python
 license: MIT License
 source: https://github.com/kleinron/hardrr

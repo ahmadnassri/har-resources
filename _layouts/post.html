@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="panel panel-default">
-  <div class="panel-heading">{{ page.title }}</div>
+  <div class="panel-heading">{% if page.language %}{{ site.languages[page.language] }}: {% endif %}<strong>{{ page.title }}</strong></div>
 
   <ul class="list-group">
     {% if page.date %}
@@ -22,7 +22,9 @@ layout: default
       <a class="list-group-item" href="{{ page.source }}" target="_blank"><i class="fa fa-file-text-o"> {{ page.license }}</i></a>
     {% endif %}
 
-    <a class="list-group-item" href="{{ page.link }}" target="_blank"><i class="fa fa-external-link"> View</i></a>
+    {% if item.link %}
+      <a class="list-group-item" href="{{ page.link }}" target="_blank"><i class="fa fa-external-link"> View</i></a>
+    {% endif %}
   </ul>
 
   <div class="panel-body">

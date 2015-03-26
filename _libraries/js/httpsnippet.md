@@ -1,9 +1,9 @@
 ---
 layout: post
 title: HTTP Snippet
-link: https://www.npmjs.com/package/httpsnippet
 language: js
 license: MIT License
+link: https://www.npmjs.com/package/httpsnippet
 source: https://github.com/Mashape/httpsnippet
 ---
 
