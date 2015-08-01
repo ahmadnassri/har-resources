@@ -1,7 +1,9 @@
 ---
 layout: post
 title: HARcURL
+license: LGPL License
 link: http://andydude.github.io/harcurl/
+source: https://github.com/andydude/harcurl
 ---
 
 The HTTP archiving (HAR) file transfer tool.
