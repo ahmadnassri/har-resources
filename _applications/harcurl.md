@@ -12,7 +12,7 @@ The harcurl tool accepts requests on stdin, and prints responses to stdout. The 
 
 The recommended usage is to build a JSON file either by hand, or by generating one with your favorite programming language, then feed that to harcurl on stdin.
 
-```shell
+```sh
 echo '
 {
   "request" {
@@ -24,6 +24,6 @@ echo '
 
 The simplest way to use harcurl is to call it with the shell command:
 
-```shell
+```sh
 harcurl < req.json > resp.json
 ```

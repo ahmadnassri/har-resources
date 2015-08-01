@@ -28,6 +28,7 @@ collections:
   videos:
     output: true
 
+markdown: redcarpet
 
 # Custom vars
 languages:
