@@ -1,7 +1,7 @@
 <header>
   <div class="container">
     <h1>HAR Resources</h1>
-    <p>A <a href="{{ site.baseurl }}/about/#contributing">community curated</a> list of resources, tools, projects and applications that support <a href="http://www.softwareishard.com/blog/har-12-spec/" target="_blank">HTTP Archive (HAR)</a>.</p>
+    <p>A <a href="/about/#contributing">community curated</a> list of resources, tools, projects and applications that support <a href="http://www.softwareishard.com/blog/har-12-spec/" target="_blank">HTTP Archive (HAR)</a>.</p>
   </div>
 </header>
 
@@ -21,7 +21,7 @@
       <ul class="nav navbar-nav">
         {% for collection in collections %}
           {% assign label = collection[1].label %}
-          <li><a href="{{ site.baseurl }}/#{{ collection[0] }}">{{ label | capitalize }} <span class="badge">{{ site[label] | size }}</span></a></li>
+          <li><a href="/#{{ collection[0] }}">{{ label | capitalize }} <span class="badge">{{ site[label] | size }}</span></a></li>
         {% endfor %}
       </ul>
     </div>
