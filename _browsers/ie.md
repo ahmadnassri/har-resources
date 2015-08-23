@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Internet Explorer
 link: http://blogs.msdn.com/ie/archive/2010/04/22/ie9-developer-tools-network-tab.aspx
 screenshot: http://ie.microsoft.com/testdrive/ieblog/2010/Apr/22_IE9DeveloperToolsNetworkTab_3.png

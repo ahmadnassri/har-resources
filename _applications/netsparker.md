@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Netsparker
 link: https://www.netsparker.com/
 ---

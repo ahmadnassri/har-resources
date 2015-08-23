@@ -1,5 +1,4 @@
 ---
-layout: post
 title: harprofiler
 link: http://harprofiler.readthedocs.org/en/latest/
 source: https://github.com/edx/harprofiler

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Charles
 link: http://www.charlesproxy.com/
 screenshot: http://i.imgur.com/KvG0v9Q.png

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HTTP Archive Google Group
 link: http://groups.google.com/group/httparchive
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HARLog
 link: http://www.imagossoftware.com/harlog/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: har2csv
 link: http://www.yamamoto.com.ar/hartools
 source: https://github.com/spcgh0st/HarTools

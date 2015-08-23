@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HAR Export Trigger
 license: BSD License
 link: http://www.softwareishard.com/blog/har-export-trigger/

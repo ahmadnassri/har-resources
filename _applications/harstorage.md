@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HAR Storage
 link: https://github.com/pavel-paulau/harstorage
 ---

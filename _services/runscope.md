@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Runscope
 link: https://www.runscope.com/
 ---

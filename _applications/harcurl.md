@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HARcURL
 license: LGPL License
 link: http://andydude.github.io/harcurl/

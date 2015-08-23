@@ -1,5 +1,4 @@
 ---
-layout: post
 title: har2gnuplot
 link: https://github.com/fh-salzburg/har2gnuplot
 ---

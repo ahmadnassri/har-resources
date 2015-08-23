@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PHP library for manipulating HTTP Archives (Har)
 source: https://github.com/jmfontaine/php-http-archive
 language: php

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hardy
 link: https://rubygems.org/gems/hardy
 source: https://github.com/nbibler/hardy

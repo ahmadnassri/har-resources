@@ -1,5 +1,4 @@
 ---
-layout: post
 title: dynaTrace
 link: https://community.compuwareapm.com/community/display/AJAX/Dynatrace+AJAX+Edition+Community+Home
 ---

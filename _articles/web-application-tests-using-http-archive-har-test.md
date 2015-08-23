@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Web Application Tests Using HTTP Archive(HAR) Tests"
 link: http://www.pushtotest.com/web-application-tests-using-http-archive-har-test
 date: 0000-00-00-00:00:00

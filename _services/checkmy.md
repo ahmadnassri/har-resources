@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Check My Website
 link: http://www.checkmy.ws/
 ---

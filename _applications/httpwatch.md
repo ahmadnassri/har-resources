@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HttpWatch
 link: http://www.httpwatch.com/
 ---

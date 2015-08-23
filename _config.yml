@@ -27,6 +27,13 @@ collections:
   videos:
     output: true
 
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'post'
+
 markdown: redcarpet
 
 # Custom vars

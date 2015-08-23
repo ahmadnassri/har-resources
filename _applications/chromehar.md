@@ -1,5 +1,4 @@
 ---
-layout: post
 title: chromeHAR
 link: http://ericduran.github.io/chromeHAR/
 screenshot: http://imgur.com/9XqrfaN.png

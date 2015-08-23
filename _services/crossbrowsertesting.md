@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CrossBrowserTesting
 link: http://crossbrowsertesting.com/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: har-tools
 link: https://github.com/outersky/har-tools
 license: The BSD 2-Clause License

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: BenchLab
 link: http://benchlab.cs.umass.edu/
 source: http://sourceforge.net/projects/benchlab/

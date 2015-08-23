@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HTTP Archive
 link: http://httparchive.org/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sharing HTTP tracing logs using the HTTP Archive format (HAR)
 link: http://irisclasson.com/2014/12/10/sharing-http-tracing-logs-using-the-http-archive-format-har/
 date: 2014-12-10 00:00:00

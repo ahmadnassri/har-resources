@@ -1,5 +1,4 @@
 ---
-layout: post
 title: REDbot
 link: http://redbot.org/
 ---

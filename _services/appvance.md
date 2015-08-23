@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Appvance PerformanceCloud
 link: http://appvance.com/products/
 ---

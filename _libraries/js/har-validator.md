@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HAR Validator
 language: js
 license: MIT License

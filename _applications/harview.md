@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HARview
 link: http://www.electricmonk.nl/log/2013/09/16/quick-n-dirty-har-http-archive-viewer/
 screenshot: http://www.electricmonk.nl/log/wp-content/uploads/2013/09/harview_output.png

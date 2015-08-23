@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mockbin
 link: https://mockbin.com/
 license: MIT

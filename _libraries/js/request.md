@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Request
 language: js
 license: Apache-2.0 license

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: hardrr
 language: python
 license: MIT License

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PhantomHAR
 link: https://www.npmjs.com/package/phantomhar
 source: https://github.com/cvan/phantomHAR

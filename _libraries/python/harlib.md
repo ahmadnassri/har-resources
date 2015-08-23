@@ -1,5 +1,4 @@
 ---
-layout: post
 title: harlib
 language: python
 license: LGPL License

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Firebug/NetExport
 link: http://www.softwareishard.com/blog/netexport/
 ---

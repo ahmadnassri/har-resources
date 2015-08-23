@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GTmetrix
 link: http://gtmetrix.com/
 ---

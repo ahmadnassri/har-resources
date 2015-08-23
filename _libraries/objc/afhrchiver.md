@@ -1,5 +1,4 @@
 ---
-layout: post
 title: AFHARchiver
 source: https://github.com/mutualmobile/AFHARchiver
 language: objc

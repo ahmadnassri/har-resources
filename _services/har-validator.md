@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HAR Validator Online
 link: http://ahmadnassri.github.io/har-validator/
 license: MIT

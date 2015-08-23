@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PushToTest
 link: http://www.pushtotest.com/
 ---

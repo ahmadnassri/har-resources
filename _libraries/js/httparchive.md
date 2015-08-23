@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HTTPArchive.js
 language: js
 license: MIT License

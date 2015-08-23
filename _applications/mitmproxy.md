@@ -1,5 +1,4 @@
 ---
-layout: post
 title: mitmproxy
 link: http://mitmproxy.org/
 source: https://github.com/mitmproxy/mitmproxy

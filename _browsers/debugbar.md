@@ -1,5 +1,4 @@
 ---
-layout: post
 title: DebugBar
 link: http://debugbar.com/
 ---

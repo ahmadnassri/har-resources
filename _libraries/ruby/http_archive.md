@@ -1,5 +1,4 @@
 ---
-layout: post
 title: http_archive
 link: https://rubygems.org/gems/http_archive
 source: https://github.com/alihuber/http_archive

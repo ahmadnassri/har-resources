@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HarSharp
 source: https://github.com/giacomelli/HarSharp
 language: csharp

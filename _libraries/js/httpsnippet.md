@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HTTP Snippet
 language: js
 license: MIT License

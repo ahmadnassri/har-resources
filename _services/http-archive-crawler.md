@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HTTP Archive Crawler
 link: https://github.com/eddiejaoude/http-archive-crawler
 ---

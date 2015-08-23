@@ -1,5 +1,4 @@
 ---
-layout: post
 title: WebPagetest
 link: http://www.webpagetest.org/
 ---

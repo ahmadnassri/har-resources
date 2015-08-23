@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "WikiPedia: .har"
 link: http://en.wikipedia.org/wiki/.har
 date: 2015-03-24-00:00:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: LoadStorm
 link: http://loadstorm.com/
 ---

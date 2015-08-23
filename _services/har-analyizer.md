@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Google Apps Toolbox: HAR Analyzer"
 link: https://toolbox.googleapps.com/apps/har_analyzer/
 ---

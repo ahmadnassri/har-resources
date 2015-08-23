@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ShowSlow
 link: http://www.showslow.org/HAR
 ---

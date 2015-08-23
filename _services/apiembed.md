@@ -1,5 +1,4 @@
 ---
-layout: post
 title: APIembed
 link: http://apiembed.com/
 license: MIT

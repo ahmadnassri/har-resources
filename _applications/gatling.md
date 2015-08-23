@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gatling
 link: http://gatling.io/
 screenshot: http://gatling.io/docs/2.0.0-RC5/_images/recorder.png

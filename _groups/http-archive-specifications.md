@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HTTP Archive Specification Google Group
 link: http://groups.google.com/group/http-archive-specification
 ---

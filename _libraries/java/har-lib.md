@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HarLib
 language: java
 license: Apache v2 License

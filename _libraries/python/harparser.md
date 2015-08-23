@@ -1,5 +1,4 @@
 ---
-layout: post
 title: harparser
 language: python
 license: MIT License

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Catchpoint
 link: http://www.catchpoint.com/
 ---

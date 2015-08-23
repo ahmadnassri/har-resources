@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HAR
 link: https://rubygems.org/gems/har
 source: https://github.com/jarib/har

@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "Make The Web Fast - The HAR Show: Capturing and Analyzing performance data with HTTP Archive format"
+attrtitle: "Make The Web Fast - The HAR Show: Capturing and Analyzing performance data with HTTP Archive format"
 link: https://www.youtube.com/watch/?v=FmsLJHikRf8
 ---
 

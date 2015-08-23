@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Chrome Dev Tools: Evaluating network performance"
 link: https://developer.chrome.com/devtools/docs/network#saving-network-data
 date: 0000-00-00-00:00:00

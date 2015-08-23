@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PhantomJS + Network Monitoring
 link: http://phantomjs.org/network-monitoring.html
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to Create an Archive in Hadoop"
 link: https://www.maxcdn.com/one/visual-glossary/har-file/
 date: 2015-03-04 00:00:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Fiddler
 link: http://www.telerik.com/fiddler
 ---

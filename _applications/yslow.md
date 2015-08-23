@@ -1,5 +1,4 @@
 ---
-layout: post
 title: YSlow Command Line
 link: http://yslow.org/command-line-har/
 ---

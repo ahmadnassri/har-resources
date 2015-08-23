@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MIHTool
 link: http://www.mihtool.com/
 ---

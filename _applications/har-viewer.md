@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HAR Viewer
 link: http://www.softwareishard.com/har/viewer/
 license: BSD License
