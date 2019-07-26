@@ -1,0 +1,9 @@
+---
+title: Chrome-har
+language: js
+license: MIT License
+link: https://www.npmjs.com/package/chrome-har
+source: https://github.com/sitespeedio/chrome-har
+---
+
+Node.JS module to generate HAR files from Chrome perflogs.
